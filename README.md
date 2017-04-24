@@ -1,13 +1,13 @@
-# Portamento 
+# Portamento
 ## a synthesizer & sequencer social sharing site.
 ### site url: https://portamento.herokuapp.com
 
 ### Collaborators - app constructed through mob & pair programming
-  - Andy Beers
-  - Tim Combs
-  - William Nickerson
-  - Niilo Smeds
-  - Tom Timmel
+  - [Andy Beers] (https://github.com/andybeers)
+  - [Tim Combs] (https://github.com/timcombs)
+  - [William Nickerson] (https://github.com/willnickerson)
+  - [Niilo Smeds] (https://github.com/nsmeds)
+  - [Tom Timmel] (https://github.com/TomTimmel)
 
 
 ### Repo Description
@@ -22,7 +22,7 @@
     - patches created by the user
     - patches favorited by the user
     - other users followed by the user
-  
+
   - Sign in/Sign up authentication
     - uses tokens for authentication
     - stores tokens in localStorage
@@ -47,7 +47,7 @@
 ### Directions to run and edit locally
   - Set up a portamento project directory that contains a directory for the front end and another directory for the back end:
     - portamento
-      - portamento-app 
+      - portamento-app
       - portamento-server
 
   - Download the repos
@@ -55,12 +55,12 @@
   - Get MongoDB running on your machine or use mLab (or something similar) to host a mongoDB database
 
   - 1 - start the back end
-    - Open another terminal window, navigate to the app folder and at the CLI type: 
+    - Open another terminal window, navigate to the app folder and at the CLI type:
       ```
       npm start
       ```
   - 2 - start the front end (for local editing and testing)
-    - Open another terminal window, navigate to the app folder and at the CLI type: 
+    - Open another terminal window, navigate to the app folder and at the CLI type:
       ```
       npm start
       ```
