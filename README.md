@@ -3,11 +3,11 @@
 ### site url: https://portamento.herokuapp.com
 
 ### Collaborators - app constructed through mob & pair programming
-  - [Andy Beers] (https://github.com/andybeers)
-  - [Tim Combs] (https://github.com/timcombs)
-  - [William Nickerson] (https://github.com/willnickerson)
-  - [Niilo Smeds] (https://github.com/nsmeds)
-  - [Tom Timmel] (https://github.com/TomTimmel)
+  - [Andy Beers](https://github.com/andybeers)
+  - [Tim Combs](https://github.com/timcombs)
+  - [William Nickerson](https://github.com/willnickerson)
+  - [Niilo Smeds](https://github.com/nsmeds)
+  - [Tom Timmel](https://github.com/TomTimmel)
 
 
 ### Repo Description
